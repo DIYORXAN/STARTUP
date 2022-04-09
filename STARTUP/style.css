@@ -1,0 +1,289 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+header .container{
+    width: 100%;
+    height: 667px;
+    background-image: url(./Layer\ 101\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    padding: 31px;
+    flex-wrap: wrap;
+    margin-bottom: 82px;
+    box-shadow: 0px 0px 25px 2px black;
+    flex-wrap: wrap;
+}
+header .container .row{
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+header .container .row .aa{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24.38px;
+}
+header .container .row ul{
+    width: 450px;
+    display: flex;
+    justify-content: space-around;
+}
+header .container .row ul a{
+    color: white;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15.85px;
+}
+header .container .row1{
+    text-align: center;
+    margin: auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 230px;
+}
+header .container .row1 h1{
+    color: white;
+    font-weight: 700;
+    font-size: 41px;
+    line-height: 49.98px;
+}
+header .container .row1 p{
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19.5px;
+}
+header .container .row1 .aaa{
+    padding: 14px 29px;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+    border: 2px solid white;
+    line-height: 68px;
+    transition: 0.6s;
+}
+header .container .row1 .aaa:hover{
+    color: rgb(255, 74, 74);
+    background-color: white;
+}
+
+header .container1{
+    width: 100%;
+    font-family: sans-serif;
+    text-align: center;
+}
+header .container1 h2{
+    font-weight: 700;
+    font-style: normal;
+    line-height: 20.72px;
+    color: #555555;
+}
+header .container1 hr{
+    width: 60px;
+    height: 3.8px;
+    margin: auto;
+    background-color: #555555;
+    border: #555555;
+    border-radius: 2px;
+    margin-top: 22px;
+}
+header .container1 .pp{
+    color: black;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 22px;
+    margin-top: 22px;
+}
+header .container1 .row{
+    width: 1500px;
+    margin: auto;
+    display: flex;justify-content: space-around;
+    flex-wrap: wrap;
+}
+header .container1 .row .box{
+    width: 315px;
+    margin-top: 40px;
+}
+header .container1 .row .box span{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 100px;
+    color: white;
+    background-color: #C1301D;
+    padding: 25px 35px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 25px -3px black;
+}
+header .container1 .row .box p:nth-of-type(1){
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20.63px;
+    margin-top: 24px;
+}
+header .container1 .row .box p:nth-of-type(2){
+    width: 303px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+.container2{
+    width: 100%;
+    height: 745px;
+    background-color: #f8f8f8;
+    margin-top: 82px;
+    padding-top: 83px;
+    font-family: sans-serif;
+    box-shadow: 0px 0px 25px -1px black;
+}
+.container2 .row{
+    text-align: center;
+}
+.container2 .row h2{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21.94px;
+    color: #555555;
+}
+.container2 .row hr{
+    width: 150px;
+    height: 3.8px;
+    margin: auto;
+    background-color: #555555;
+    border: #555555;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.container2 .row p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17.07px;
+    margin-top: 22px;
+}
+.container2 .box{
+    width: 70%;
+    height: 111px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 54px;
+}
+.container2 .box p{
+    width: 600px;
+    justify-content: space-around;
+    line-height: 25px;
+}
+.container2 .image{
+    width: 1300px;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    margin-top: 54px;
+}
+.container2 .image .img{
+    width: 300px;
+    height: 290px;
+    background-image: url(./Layer\ 13.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container3{
+    font-family: sans-serif;
+    text-align: center;
+}
+.container3 .box h2{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #555555;
+    margin-top: 83px;
+}
+.container3 .box hr{
+    width: 150px;
+    height: 3.8px;
+    margin: auto;
+    background-color: #555555;
+    border: #555555;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.container3 .box ul{
+    width: 450px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.container3 .box ul a{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #555555;
+}
+.container3 .box ul a:hover,
+.container3 .box ul a.active{
+    color: #C1301D;
+}
+.container3 .box1{
+    width: 950px;
+    height: 700px;
+    margin: auto;
+    margin-top: 58px;
+}
+.container3 .box1 .image{
+    width: 960px;
+    height: 300px;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+}
+.container3 .box1 .image .img{
+    width: 300px;
+    height: 282px;
+    background-image: url(./Layer\ 26.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container4{
+    width: 100%;
+    height: 324px;
+    margin-top: 240px;
+    text-align: center;
+    background-color: #c1301d86;
+    background-image: url(./Layer\ 29\ 1.png );
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    padding-top: 84px;
+}
+.container4 .box h2{
+    text-align: center;
+    font-weight: 800;
+    font-size: 29px;
+    line-height: 29.26px;
+    color: #C1301D;
+}
+.container4 .box a{
+    padding: 14px 29px;
+    color: #C1301D;
+    font-weight: 700;
+    font-size: 17px;
+    border: 2px solid #C1301D;
+    line-height: 100px;
+    border-radius: 5px;
+    transition: 0.6s;
+}
+.container4 .box a:hover{
+    color: white;
+    background-color: #C1301D;
+}
